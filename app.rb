@@ -10,8 +10,8 @@ class App < Sinatra::Base
 	# 	 erb :info
 	#  end
 
-	get '/' do
-		"<h1>Hello World</h1>"
-	end
+	# get '/' do
+	# 	"<h1>Hello World</h1>"
+	# end
 
  end
